@@ -1,2 +1,1 @@
-# Image-classification-using-transfer-learning
-Image classification using transfer learning
+Plant disease classification with convolutional neural networks in Tensorflow using transfer learning on MobileNet.
